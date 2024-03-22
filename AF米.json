@@ -3,7 +3,7 @@
 	"wallpaper": "http://饭太硬.top/深色壁纸/api.php",
 	"sites": [{
 			"key": "豆豆",
-			"name":🚀AF┃高清┃影视,
+			"name": "🚀AF┃高清┃影视",
 			"type": 3,
 			"api": "csp_DouDou",
 			"searchable": 0,
@@ -12,7 +12,7 @@
 		},
 		{
 			"key": "Bili",
-			"name":❤️AF┃高级接口,
+			"name": "❤️AF┃高级接口",
 			"type": 3,
 			"api": "csp_Bili",
 			"style": {
@@ -96,7 +96,7 @@
 		},
 		{
 			"key": "88js",
-			"name": "⚽ AF┃看球",
+			"name": "⚽AF┃看球",
 			"type": 3,
 			"api": "csp_Kanqiu",
 			"style": {
@@ -119,7 +119,7 @@
 		},
 		{
 			"key": "csp_WoGG",
-			"name": "AF┃阿里4K",
+			"name": "🎈AF┃玩偶",
 			"type": 3,
 			"api": "csp_WoGG",
 			"searchable": 1,
@@ -483,7 +483,7 @@
 		},
 		{
 			"key": "push_agent",
-			"name": "公众号：AF影视",
+			"name": "公众号：AF专线",
 			"type": 3,
 			"api": "csp_Push",
 			"searchable": 1,
