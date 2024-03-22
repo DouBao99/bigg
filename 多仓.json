@@ -1,20 +1,20 @@
 {
-  “网址”：[
+  "urls": [
     {
       "name": "🚀AF┃高清┃影视",
       "url": "https://raw.githubusercontent.com/DouBao99/bigg/main/AF%E7%B1%B3.json"
     },
     {
-      "name": "🐔肥猫",
-      "url": "http://我不是.肥猫.live/接口禁止支付"
+      "name": "🐔肥猫1线",
+      "url": "http://我不是.肥猫.live/接口禁止贩卖"
     },
     {
-      "name": "🐼饭太硬",
+     "name": "🐼饭太硬1线",
       "url": "http://饭太硬.top/tv"
     },
     {
-      "name": "🦆俊于",
-      “url”：“http://home.jundie.top:81/top98.json”
+      "name": "🦆俊于1线",
+      "url": "http://home.jundie.top:81/top98.json"
     },
     {
       "name": "🦞荷城茶秀",
@@ -22,14 +22,14 @@
     },
     {
       "name": "🌴CatT4口",
-      “url”：“https://agit.ai/ddx/TVBox/raw/branch/master/t4.json”
+      "url": "https://agit.ai/ddx/TVBox/raw/branch/master/t4.json"
     },
     {
       "name": "🌿Cat接口",
-      “url”：“https://agit.ai/ddx/TVBox/raw/branch/master/catbox.json”
+      "url": "https://agit.ai/ddx/TVBox/raw/branch/master/catbox.json"
     },
     {
-      "name": "🐔心跳骤然",
+      "name": "🐔心动采集",
       "url": "https://cloud.lxweb.cn/f/YxzdI6/xdcj.json"
     },
     {
@@ -37,12 +37,12 @@
       "url": "https://tvkj888.cn/tvys/svip.json"
     },
     {
-      "名称": "🌿PG",
-      “url”：“https://agit.ai/leevi/PlG/raw/branch/master/jsm.json”
+      "name": "🌿PG",
+      "url": "https://agit.ai/leevi/PlG/raw/branch/master/jsm.json"
     },
     {
       "name": "🐔一夫莫当",
-      “url”：“http://yydf.540734621.xyz/yydf/yydf/bd/watson/watson.json”
+      "url": "http://yydf.540734621.xyz/yydf/yydf/bd/watson/watson.json"
     },
     {
       "name": "🐔无敌乌鸦",
@@ -50,19 +50,19 @@
     },
     {
       "name": "🐔春莹天下",
-      “url”：“https://wds.ecsxs.com/230989.json”
+      "url": "https://wds.ecsxs.com/230989.json"
     },
     {
       "name": "🐔黄金授权仓",
-      “url”：“https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjys.free.json”
+      "url": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjys.free.json"
     },
     {
       "name": "🐔PizazzGY",
-      “url”：“https://ghps.cc/http://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json”
+      "url": "https://ghps.cc/http://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json"
     },
     {
       "name": "😹影视资源",
-      “url”：“http://bp.tvbox.cam”
+      "url": "http://bp.tvbox.cam"
     },
     {
       "name": "😹玄珠",
@@ -94,7 +94,7 @@
     },
     {
       "name": "😹4K影院",
-      “url”：“https://atomgit.com/lxhfans/ZZ/raw/master/tv.txt”
+      "url": "https://atomgit.com/lxhfans/ZZ/raw/master/tv.txt"
     },
     {
       "name": "😹D佬大",
@@ -102,11 +102,11 @@
     },
     {
       "name": "😹分享者",
-      “url”：“https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8”
+      "url": "https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8"
     },
     {
       "name": "😹三条Z",
-      “url”：“https://agit.ai/mmmgit/tvbox/raw/branch/main/zzz1.json”
+      "url": "https://agit.ai/mmmgit/tvbox/raw/branch/main/zzz1.json"
     },
     {
       "name": "😹动漫城",
@@ -117,7 +117,7 @@
       "url": "http://tvkj.top/动漫频道/api.json"
     },
     {
-      "name": "🚀采王",
+      "name": "🚀采集王",
       "url": "http://yydf.540734621.xyz/yydf/yydf/bd/yydf.json"
     },
     {
@@ -134,7 +134,7 @@
     },
     {
       "name": "🚀无界",
-      “url”：“http://www.cwss.xyz/wj.json”
+      "url": "http://www.cwss.xyz/wj.json"
     },
     {
       "name": "🚀云星",
@@ -145,12 +145,12 @@
       "url": "http://我不是.摸鱼儿.top"
     },
     {
-      "name": "🚀景观",
+      "name": "🚀恒星",
       "url": "https://atomgit.com/hengxing/hxvip/raw/main/hxvip.json"
     },
     {
       "name": "🚀玉玉",
-      “url”：“http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/xc.json”
+      "url": "http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/xc.json"
     },
     {
       "name": "🚀业余",
@@ -166,11 +166,11 @@
     },
     {
       "name": "🚀于氏",
-      “url”：“https://agit.ai/sejinan/app/raw/branch/box/yu”
+      "url": "https://agit.ai/sejinan/app/raw/branch/box/yu"
     },
     {
       "name": "🚀魔饭",
-      “url”：“https://jihulab.com/yw88075/tvbox/-/raw/main/dr/js.json”
+      "url": "https://jihulab.com/yw88075/tvbox/-/raw/main/dr/js.json"
     },
     {
       "name": "🚀小马",
@@ -202,7 +202,7 @@
     },
     {
       "name": "🦉教育专线",
-      “url”：“https://agit.ai/895322156/Q/raw/branch/master/TV/jy.txt”
+      "url": "https://agit.ai/895322156/Q/raw/branch/master/TV/jy.txt"
     },
     {
       "name": "🦉少儿益智",
@@ -210,15 +210,15 @@
     },
     {
       "name": "😹牛大佬",
-      “url”：“http://biu.alwaysdata.net/box.json”
+      "url": "http://biu.alwaysdata.net/box.json"
     },
     {
       "name": "拾光4K",
-      “url”：“https://gh.​​con.sh/https://raw.githubusercontent.com/xmbjm/vip4K/main/4Kvip.json”
+      "url": "https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip4K/main/4Kvip.json"
     },
     {
       "name": "拾光VIP",
-      “url”：“https://atomgit.com/xmbjm/vip/raw/main/vip.json”
+      "url": "https://atomgit.com/xmbjm/vip/raw/main/vip.json"
     },
     {
       "name": "🐺猎狼影视",
@@ -226,23 +226,23 @@
     },
     {
       "name": "🦉道长",
-      “url”：“https://pastebin.com/raw/5NHaxyGR”
+      "url": "https://pastebin.com/raw/5NHaxyGR"
     },
     {
       "name": "🐹dxawi",
-      “url”：“https://dxawi.github.io/0/0.json”
+      "url": "https://dxawi.github.io/0/0.json"
     },
     {
-      "名称": "🍯HG",
+      "name": "🍯HG",
       "url": "https://api.hgyx.vip/hgyx.json"
     },
     {
       "name": "☔️缘聚缘散",
-      “url”：“https://agit.ai/alanchaotang/if/raw/branch/main/X.json”
+      "url": "https://agit.ai/alanchaotang/if/raw/branch/main/X.json"
     },
     {
       "name": "⛵️南风",
-      “url”：“https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json”
+      "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"
     },
     {
       "name": "🦜运输车",
@@ -254,11 +254,11 @@
     },
     {
       "name": "🦞胖鸭",
-      “url”：“https://agit.ai/cyl518/yl/raw/branch/master/pytv.json”
+      "url": "https://agit.ai/cyl518/yl/raw/branch/master/pytv.json"
     },
     {
       "name": "😵巧技",
-      “url”：“https://agit.ai/relax/adcc/raw/branch/master/tvbox.json”
+      "url": "https://agit.ai/relax/adcc/raw/branch/master/tvbox.json"
     },
     {
       "name": "🎎最全短剧",
