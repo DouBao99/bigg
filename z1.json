@@ -4,8 +4,8 @@
 "logo":"https://tv.nxog.top/m//LOGO2.gif",
 "spider":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;03de898e3f99d08349bec421ebc8f506",
 "warningText":"tv提示:
-📢接口软件永远免费 
-📢长期维护切勿贩卖
+📢接口软件 
+📢长期维护
 📢智能AI已过滤广告",
 "lives":[
 {"name":"tv","type":0,"url":"https://tv.nxog.top/m//tv/","playerType":1,"ua": "okhttp/3.12.13","logo": "https://live.fanmingming.com/tv/{name}.png"}
