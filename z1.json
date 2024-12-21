@@ -1,17 +1,18 @@
 
+
 {
 "wallpaper":"https://tv.nxog.top/m//t/",
 "logo":"https://tv.nxog.top/m//LOGO2.gif",
 "spider":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;03de898e3f99d08349bec421ebc8f506",
 "warningText":"tv提示:
-📢接口软件 
+📢接口软件
 📢长期维护
 📢智能AI已过滤广告",
 "lives":[
 {"name":"tv","type":0,"url":"https://tv.nxog.top/m//tv/","playerType":1,"ua": "okhttp/3.12.13","logo": "https://live.fanmingming.com/tv/{name}.png"}
 ],
 "sites": [
-{"key":"豆瓣2","name":"📢tv榜单nxog.top","type":3,"api":"csp_Douban","searchable":0},
+{"key":"豆瓣2","name":"📢影优盒子","type":3,"api":"csp_Douban","searchable":0},
 {"key":"豆瓣1","name":"📢tv公告❤更新:12/18❤","type":3,"api":"csp_Notice","searchable":0,"changeable": 0,"jar":"https://tv.nxog.top/m/jar.php?id=xx&ou=公众号欧歌app;md5;ed61f5e30960fa9d7c4ef6cf81a3f01b","ext": "https://nxog.top/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8CAPP/ts/?b=tv"},
 
 
