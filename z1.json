@@ -17,7 +17,7 @@
   "sites": [
     {
       "key": "影优",
-      "name": "影优┃App",
+      "name": "影优┃直连",
       "type": 3,
       "api": "csp_NanGua",
       "searchable": 1,
@@ -28,7 +28,7 @@
     },
     {
       "key": "天天",
-      "name": "天天┃App",
+      "name": "天天┃直连",
       "type": 3,
       "api": "csp_TTian",
       "playerType": 1,
@@ -36,7 +36,7 @@
     },
     {
       "key": "热播",
-      "name": "热播┃App",
+      "name": "热播┃直连",
       "type": 3,
       "api": "csp_TTian",
       "playerType": 1,
@@ -44,7 +44,7 @@
     },
     {
       "key": "追剧",
-      "name": "追剧┃App",
+      "name": "追剧┃直连",
       "type": 3,
       "api": "csp_TTian",
       "playerType": 1,
@@ -52,7 +52,7 @@
     },
     {
       "key": "剧评",
-      "name": "剧评┃App",
+      "name": "剧评┃直连",
       "type": 3,
       "api": "csp_Jpys",
       "playerType": 1,
@@ -60,7 +60,7 @@
     },
     {
       "key": "木头",
-      "name": "木头┃App",
+      "name": "木头┃直连",
       "type": 3,
       "api": "csp_Shark",
       "playerType": 1,
@@ -68,7 +68,7 @@
     },
     {
       "key": "小飞",
-      "name": "小飞┃App",
+      "name": "小飞┃直连",
       "type": 3,
       "api": "csp_Shark",
       "playerType": 1,
@@ -76,7 +76,7 @@
     },
     {
       "key": "雨滴",
-      "name": "雨滴┃App",
+      "name": "雨滴┃直连",
       "type": 3,
       "api": "csp_Xdai",
       "playerType": 1,
@@ -84,7 +84,7 @@
     },
     {
       "key": "水滴",
-      "name": "水滴┃App",
+      "name": "水滴┃直连",
       "type": 3,
       "api": "csp_Xdai",
       "playerType": 1,
@@ -92,7 +92,7 @@
     },
     {
       "key": "现代",
-      "name": "现代┃App",
+      "name": "现代┃直连",
       "type": 3,
       "api": "csp_Xdai",
       "playerType": 1,
@@ -100,7 +100,7 @@
     },
     {
       "key": "优质",
-      "name": "优质┃App",
+      "name": "优质┃直连",
       "type": 3,
       "api": "csp_Xdai",
       "playerType": 1,
@@ -108,7 +108,7 @@
     },
     {
       "key": "客星",
-      "name": "客星┃App",
+      "name": "客星┃直连",
       "type": 3,
       "api": "csp_Xdai",
       "playerType": 1,
@@ -116,7 +116,7 @@
     },
     {
       "key": "木叶",
-      "name": "木叶┃App",
+      "name": "木叶┃直连",
       "type": 3,
       "api": "csp_Xdai",
       "playerType": 2,
@@ -124,7 +124,7 @@
     },
     {
       "key": "雷电",
-      "name": "雷电┃App",
+      "name": "雷电┃直连",
       "type": 3,
       "api": "csp_Slys",
       "playerType": 1,
@@ -132,7 +132,7 @@
     },
     {
       "key": "柠檬",
-      "name": "柠檬┃App",
+      "name": "柠檬┃直连",
       "type": 3,
       "api": "csp_Nmvod",
       "playerType": 2,
@@ -162,7 +162,7 @@
     },
     {
       "key": "AI4",
-      "name": "AI4┃APP",
+      "name": "AI4┃直连",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -179,7 +179,7 @@
     },
     {
       "key": "蚂蚁",
-      "name": "蚂蚁┃App",
+      "name": "蚂蚁┃直连",
       "type": 3,
       "api": "csp_Mayiys",
       "searchable": 1,
