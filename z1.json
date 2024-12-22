@@ -35,8 +35,8 @@
       "ext": "baHR0cDovL3R0LnlzZHFqcy5jbg=="
     },
     {
-      "key": "热播",
-      "name": "热播┃直连",
+      "key": "影优",
+      "name": "影优┃专线",
       "type": 3,
       "api": "csp_TTian",
       "playerType": 1,
