@@ -3,7 +3,7 @@
 {
 "wallpaper":"https://tv.nxog.top/m//t/",
 "logo":"https://d.kstore.dev/download/10319/77094b36acaf2edda3ccfb095a4616e93901203f358e.png",
-"spider":"https://d.kstore.dev/download/10319/ouge.jar;md5;9c0d512909991ae7fa0c3baf7f17c6ce",
+"spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/DouBao99/bigg/refs/heads/main/ouge.jar;md5;9c0d512909991ae7fa0c3baf7f17c6ce",
 "warningText":"tv提示:
 📢接口软件
 📢长期维护
